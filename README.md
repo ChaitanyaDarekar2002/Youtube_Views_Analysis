@@ -40,7 +40,8 @@ This project analyzes **YouTube channel performance in India** using **Power BI*
 
 ### India YouTube Views Analysis
 
-![YouTube India Dashboard](dashboard.png)
+<img width="1907" height="975" alt="Screenshot 2026-10-05 133954" src="https://github.com/user-attachments/assets/0b677cf2-558d-492e-abee-0fbf7994053e" />
+
 
 ## 📂 Project Structure
 
